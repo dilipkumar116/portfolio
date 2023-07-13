@@ -37,6 +37,11 @@ main {
     padding: 40px;
 }
 
+main ul{
+    font-size: large;
+    
+}
+
 footer {
     position: fixed;
     bottom: 0;
